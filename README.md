@@ -13,6 +13,8 @@ url 参数是要下载的网站 URL。<br>
 
 - [Markdown 基本语法](https://github.com/taoste/Markdown)
 
+- [UserScript 油猴脚本](https://github.com/taoste/UserScript) ([@GreasyFork 脚本](https://greasyfork.org/users/457025))
+
 - [Github 用户及仓库分析爬虫](https://github.com/taoste/Github/)
 
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
