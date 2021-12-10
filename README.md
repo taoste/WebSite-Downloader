@@ -18,6 +18,7 @@ url 参数是要下载的网站 URL。<br>
 - [Github 用户及仓库分析爬虫](https://github.com/taoste/Github/)
 
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
+- [@李笑来](https://github.com/xiaolai):[自学是门手艺](https://github.com/taoste/the-craft-of-selfteaching) | [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 
 
 # 参考资料：
