@@ -29,6 +29,9 @@ url 参数是要下载的网站 URL。<br>
 
 - 《[装上这 10个vscode插件，python才真的是无敌的存在！](https://zhuanlan.zhihu.com/p/361654489)》 - 知乎
 
+- 《[VScode实现HTML的编写、运行和调试&推荐插件](https://blog.csdn.net/weixin_44122062/article/details/105121204)》· 今天怎么又下雨的博客 - CSDN博客_vscode设置中文
+
+
 
 
 
