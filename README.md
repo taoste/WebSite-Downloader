@@ -1,6 +1,6 @@
 # WebSite-Downloader ( #Python 爬虫--网站下载器 ）
 
-（ [ReadMe](https://blog.csdn.net/LiebeULQQ/article/details/82749556)：[简体中文](./README.md) | [English](./README-en.md) | [Русский](./README-ru.md) )
+（ [ReadMe](https://blog.csdn.net/LiebeULQQ/article/details/82749556) ☞ [简体中文](./README.md) | [English](./README-en.md) | [Русский](./README-ru.md) )
  
 # 如何使用 ?
 
