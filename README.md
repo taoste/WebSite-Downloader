@@ -24,7 +24,7 @@ url 参数是要下载的网站 URL。<br>
 # 参考资料：
 
 - 《[用VScode配置Python开发环境](https://zhuanlan.zhihu.com/p/31417084)》 - 知乎
-- 
+
 - 《[2021 年 VS Code 必备的8个 Python 插件](https://zhuanlan.zhihu.com/p/395594939)》 - 知乎
 
 - 《[装上这 10个vscode插件，python才真的是无敌的存在！](https://zhuanlan.zhihu.com/p/361654489)》 - 知乎
