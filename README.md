@@ -11,6 +11,8 @@ url 参数是要下载的网站 URL。<br>
 
 # 其他推荐：
 
+
+
 - [Markdown 基本语法](https://github.com/taoste/Markdown)
 
 - [UserScript 油猴脚本](https://github.com/taoste/UserScript) ([@GreasyFork 脚本](https://greasyfork.org/users/457025))
@@ -20,6 +22,26 @@ url 参数是要下载的网站 URL。<br>
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
 - [@李笑来](https://github.com/xiaolai):[自学是门手艺](https://github.com/taoste/the-craft-of-selfteaching) | [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 
+- [强烈推荐👍](https://github.com/taoste/rustdesk)：[**RustDesk** | 最好的开源远程桌面软件](https://rustdesk.com/zh/) ( https://rustdesk.com/zh/ ) @[Github](https://github.com/rustdesk/rustdesk) 
+>> [再见了，Teamviewer！](https://mp.weixin.qq.com/s/JI77KM5RSwZ3KgyIEUqrUQ) ( @GitHub宝典 2021-06-18)
+>>
+> 想要了解更多详情，可戳下方链接～
+>>
+>> **传送门**：
+>>> 
+>>> https://rustdesk.com/zh/
+>>> 
+>>> https://github.com/rustdesk/rustdesk
+>>> 
+>>> https://gitee.com/rustdesk
+>
+>> **参考链接**：
+>>> 
+>>> [1] https://www.v2ex.com/t/772047
+>>> 
+>>> [2] https://www.v2ex.com/t/712086?p=1
+>>> 
+>>> [3] https://juejin.cn/post/6881056112909500430
 
 # 参考资料：
 
