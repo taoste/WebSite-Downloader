@@ -19,6 +19,10 @@ url 参数是要下载的网站 URL。<br>
 
 - [Github 用户及仓库分析爬虫](https://github.com/taoste/Github/)
 
+- [**GitHub Hosts**](https://github.com/taoste/hosts-1) @[GitHub](https://github.com/taoste/hosts-1) @[gitee](https://gitee.com/taoste/hosts)
+> 这个有什么用？最直观的效果是GitHub图片可以正常加载，网页也稳定了。
+>> GitHub Hosts主要是通过修改host的方式加速GitHub访问，解决图片无法加载以及访问速度慢的问题。
+
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
 - [@李笑来](https://github.com/xiaolai):[自学是门手艺](https://github.com/taoste/the-craft-of-selfteaching) | [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 
