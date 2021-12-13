@@ -19,7 +19,7 @@ url 参数是要下载的网站 URL。<br>
 
 - [Github 用户及仓库分析爬虫](https://github.com/taoste/Github/)
 
-- [**GitHub Hosts**](https://github.com/taoste/hosts-1) @[GitHub](https://github.com/taoste/hosts-1) @[gitee](https://gitee.com/taoste/hosts)
+- [👍**GitHub Hosts**](https://github.com/taoste/hosts-1) @[GitHub](https://github.com/taoste/hosts-1) @[gitee](https://gitee.com/taoste/hosts)
 > 这个有什么用？最直观的效果是GitHub图片可以正常加载，网页也稳定了。
 >> GitHub Hosts主要是通过修改host的方式加速GitHub访问，解决图片无法加载以及访问速度慢的问题。
 
