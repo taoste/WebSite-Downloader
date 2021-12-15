@@ -28,6 +28,8 @@ url 参数是要下载的网站 URL。<br>
 
 - [【python】Win下命令行音乐播放器](https://github.com/taoste/music)
 
+- [推荐👍](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1491404&ctid=1668)[【AI线稿上色 】Style2paints（WIN）](https://style2paints.github.io/README_zh)  @[Github](https://github.com/style2paints) - @[style2paints](https://github.com/taoste/style2paints.github.io)
+
 - [强烈推荐👍](https://github.com/taoste/rustdesk)：[**RustDesk** | 最好的开源远程桌面软件](https://rustdesk.com/zh/) ( https://rustdesk.com/zh/ ) @[Github](https://github.com/rustdesk/rustdesk) 
 >> [再见了，Teamviewer！](https://mp.weixin.qq.com/s/JI77KM5RSwZ3KgyIEUqrUQ) ( @GitHub宝典 2021-06-18)
 >>
