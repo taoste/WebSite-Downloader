@@ -51,11 +51,13 @@ url 参数是要下载的网站 URL。<br>
 >>> 
 >>> [3] https://juejin.cn/post/6881056112909500430
 
-<li><a href="https://github.com/vpncn/vpncn.github.io">2021中国翻墙软件VPN推荐以及<strong>科学上网</strong>避坑，稳定好用。</a></li>
-<blockquote> <a href="https://github.com/taoste/vpn">对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，<br>中国最新科学上网翻墙梯子VPN下载推荐。</a></blockquote>
+<li><a href="https://taoste.github.io/vpn">推荐👍</a><a href="https://github.com/vpncn/vpncn.github.io">2021中国翻墙软件VPN推荐以及<strong>科学上网</strong>避坑，稳定好用。</a></li>
+<blockquote>
+ <a href="https://github.com/taoste/vpn">对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，<br>中国最新科学上网翻墙梯子VPN下载推荐。</a>
+</blockquote>
 
 
-# 参考资料：
+# 推荐阅读：
 
 - 《[用VScode配置Python开发环境](https://zhuanlan.zhihu.com/p/31417084)》 - 知乎
 
