@@ -43,8 +43,6 @@ url 参数是要下载的网站 URL。<br>
 >>> 
 >>> https://gitee.com/rustdesk
 
-> <a href="https://github.com/vpncn/vpncn.github.io">2021中国翻墙软件VPN推荐以及<strong>科学上网</strong>避坑，稳定好用。<br>对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，<br>中国最新科学上网翻墙梯子VPN下载推荐。</a>
-
 >> **参考链接**：
 >>> 
 >>> [1] https://www.v2ex.com/t/772047
@@ -52,6 +50,10 @@ url 参数是要下载的网站 URL。<br>
 >>> [2] https://www.v2ex.com/t/712086?p=1
 >>> 
 >>> [3] https://juejin.cn/post/6881056112909500430
+
+<li><a href="https://github.com/vpncn/vpncn.github.io">2021中国翻墙软件VPN推荐以及<strong>科学上网</strong>避坑，稳定好用。</a></li>
+<blockquote> <a href="https://github.com/taoste/vpn">对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，<br>中国最新科学上网翻墙梯子VPN下载推荐。</a></blockquote>
+
 
 # 参考资料：
 
