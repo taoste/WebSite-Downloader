@@ -56,6 +56,17 @@ url 参数是要下载的网站 URL。<br>
  <a href="https://github.com/taoste/vpn">对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，<br>中国最新科学上网翻墙梯子VPN下载推荐。</a>
 </blockquote>
 
+<div>【<a href="https://www.appinn.com/author/yushufang/">稻米鼠</a>@<a href="https://github.com/dmscode">github</a>】&nbsp;<a href="https://www.appinn.com/simple-pages-dms/">在老旧设备上显示文字、时钟、句子、日历、倒数日[Web] - 小众软件 (appinn.com)</a></div>
+<blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);"><span style=" color: rgb(68, 68, 68); ; ; ; ; ; ; ; ; ; ">老鼠写了一些小页面来利用自己的旧设备，这里是入口：&nbsp;</span>
+<a href="https://pages.izyx.xyz/kindle/?utm_source=appinn.com" target="_blank" rel="noopener" style=" box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; ; ; ; ; ; ; ; ; ; ; ; ; ">https://pages.izyx.xyz/kindle/</a></blockquote>
+<blockquote formatblock="1" style="margin: 0.8em 0px 0.8em 2em; padding: 0px 0px 0px 0.7em; border-left: 2px solid rgb(221, 221, 221);"><a href="https://meta.appinn.net/t/topic/21776">Ink Clock ——一款针对水墨屏设计的数字时钟（0.2.2） - 大家的板块 / 稻米鼠的频道 - 小众软件官方论坛 (appinn.net)</a></blockquote>
+<blockquote>
+<a href="https://github.com/taoste/Wiki-in-box">taoste/Wiki-in-box:<br> </a>
+<a href="https://github.com/taoste/Wiki-in-box">一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自己的知识碎片。<br> </a>
+<a href="https://github.com/dmscode/Wiki-in-box">(@github.com)</a>&nbsp;<a href="https://github.com/dmscode">dmscode (稻米鼠) (github.com)</a>
+<br>
+<a href="https://github.com/dmscode/pages/tree/master/ink-clock">pages/ink-clock at master · dmscode/pages (github.com)</a></blockquote>
+
 
 # 推荐阅读：
 
