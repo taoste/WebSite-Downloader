@@ -26,6 +26,9 @@ url 参数是要下载的网站 URL。<br>
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
 - [@李笑来](https://github.com/xiaolai):[自学是门手艺](https://github.com/taoste/the-craft-of-selfteaching) | [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
 
+- [AntiZhaPian](https://github.com/taoste/AntiZhaPian):[假的国家反诈中心 ](https://github.com/XJP-GIT/AntiZhaPian)
+
+
 - [【python】Win下命令行音乐播放器](https://github.com/taoste/music)
 
 - [推荐👍](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1491404&ctid=1668)[【AI线稿上色 】Style2paints（WIN）](https://style2paints.github.io/README_zh)  @[Github](https://github.com/style2paints) - @[style2paints](https://github.com/taoste/style2paints).[io](https://github.com/taoste/style2paints.github.io)
