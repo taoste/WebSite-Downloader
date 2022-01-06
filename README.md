@@ -21,8 +21,9 @@ url 参数是要下载的网站 URL。<br>
 
 <li><a href="https://github.com/dropod/issues/">👍Issues</a><a href="https://github.com/dropod/issues/issues">(公共议题)</a> · <a href="https://github.com/dropod">dropod</a><br>
 <blockquote>
-@10363:<a href="https://github.com/dropod/issues/issues/10363">2021中国楼市最悲催事件：房子和工作都没了，只有房贷还在</a><br>
-@zmike1993:<a href="https://github.com/zmike1993/Politics/issues/2"> 他们想给3岁孩子扎新冠疫苗，我不！</a><br>
+#10363:<a href="https://github.com/dropod/issues/issues/10363">2021中国楼市最悲催事件：房子和工作都没了，只有房贷还在</a><br>
+#10291:<a href="https://github.com/dropod/issues/issues/10291">骂方方的西安狙击手今晚遭网暴！</a><br>
+@zmike1993:<a href="https://github.com/zmike1993/Politics/issues/2">他们想给3岁孩子扎新冠疫苗，我不！</a><br>
  </blockquote>
  
 - **view-source:**[👍](https://go.choong.net/1024/)[**GitHub Hosts**](https://github.com/ineo6/hosts) 镜像：@[GitHub](https://github.com/taoste/hosts-1) @[gitee](https://gitee.com/taoste/hosts)/[ineo6](https://gitee.com/ineo6/hosts)
