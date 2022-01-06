@@ -19,7 +19,7 @@ url 参数是要下载的网站 URL。<br>
 
 - [Github 用户及仓库分析爬虫](https://github.com/taoste/Github/)
 
-<li><a href="https://github.com/dropod/issues/issues">👍Issues · dropod (公共议题)</a><br>
+<li><a href="https://github.com/dropod/issues/">👍Issues</a><a href="https://github.com/dropod/issues/issues">(公共议题)</a> · <a href="https://github.com/dropod">dropod</a><br>
 <blockquote>
 @10363:<a href="https://github.com/dropod/issues/issues/10363">2021中国楼市最悲催事件：房子和工作都没了，只有房贷还在</a><br>
  </blockquote>
