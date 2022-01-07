@@ -44,9 +44,9 @@ url 参数是要下载的网站 URL。<br>
 <blockquote><blockquote>
  👍<a href="https://github.com/yuuwill/">Github@yuuwill</a> 
 <a href="https://t66y.com/read.php?tid=1648542" title="草榴社區APP 小草APP 官方客戶端 iOS & Android & UWP（最近更新） - 草榴資訊 | 草榴社區 - t66y.com">#1024app</a> :
- <a href="https://github.com/yuuwill/1024app-android" title="草榴官方客户端，小草客户端，Android">Android</a> 
- · <a href="https://github.com/yuuwill/1024app-ios" title="草榴官方客户端，小草客户端，iOS">iOS</a>
- · <a href="https://github.com/yuuwill/1024app-uwp" title="草榴官方客户端，小草客户端，UWP">UWP</a>
+ <a href="https://github.com/yuuwill/1024app-android/releases" title="草榴官方客户端，小草客户端，Android">Android</a> 
+ · <a href="https://github.com/yuuwill/1024app-ios/releases" title="草榴官方客户端，小草客户端，iOS">iOS</a>
+ · <a href="https://github.com/yuuwill/1024app-uwp/releases" title="草榴官方客户端，小草客户端，UWP">UWP</a>
 </blockquote></blockquote>
 
 - [AntiZhaPian](https://github.com/taoste/AntiZhaPian):[假的国家反诈中心](https://github.com/XJP-GIT/AntiZhaPian)@[XJP-GIT](https://github.com/XJP-GIT/)
