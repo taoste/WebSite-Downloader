@@ -11,8 +11,6 @@ url 参数是要下载的网站 URL。<br>
 
 # 其他推荐：
 
-
-
 - [Markdown 基本语法](https://github.com/taoste/Markdown)
 
 - [UserScript 油猴脚本](https://github.com/taoste/UserScript) ([@GreasyFork 脚本](https://greasyfork.org/users/457025))
@@ -32,6 +30,24 @@ url 参数是要下载的网站 URL。<br>
 
 - [免费的编程中文书籍索引](https://github.com/taoste/free-programming-books-zh_CN)
 - [@李笑来](https://github.com/xiaolai):[自学是门手艺](https://github.com/taoste/the-craft-of-selfteaching) | [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
+
+<li> 👍 
+ 草榴社區 - t66y.com
+ <a href="https://t66y.com/notice.php" title="社区声明 | 草榴社區 1024 t66y.com">草榴社區</a>
+ | <a href="https://t66y.com/" title="草榴社區 1024 t66y.com">t66y.com</a> 
+<a href="https://github.com/taoste/Hello-World/blob/master/eBook/t66y.com/ReadMe.md" title="Github专题：关于 - 草榴社區 1024 t66y.com">☞</a>	
+ <a href="https://t66y.com/thread0806.php?fid=7" title="技術討論區 | 草榴社區 1024 t66y.com">第7區</a> | 
+<a href="https://t66y.com/thread0806.php?fid=8" title="新時代的我們 | 草榴社區 1024 t66y.com">第8區</a> | 
+<a href="https://t66y.com/thread0806.php?fid=9" title="草榴資訊 | 草榴社區 - t66y.com">第9區</a>	
+<a href="https://t66y.com/thread0806.php?fid=16" title="達蓋爾的旗幟 | 草榴社區 1024 t66y.com">第16區</a> | 
+<a href="https://t66y.com/read.rss/" title="RSS閱讀器 | 草榴社區 1024 t66y.com">RSS</a></li>
+<blockquote><blockquote>
+ 👍<a href="https://github.com/yuuwill/">Github@yuuwill</a> 
+<a href="https://t66y.com/read.php?tid=1648542" title="草榴社區APP 小草APP 官方客戶端 iOS & Android & UWP（最近更新） - 草榴資訊 | 草榴社區 - t66y.com">#1024app</a> :
+ <a href="https://github.com/yuuwill/1024app-android" title="草榴官方客户端，小草客户端，Android">Android</a> 
+ · <a href="https://github.com/yuuwill/1024app-ios" title="草榴官方客户端，小草客户端，iOS">iOS</a>
+ · <a href="https://github.com/yuuwill/1024app-uwp" title="草榴官方客户端，小草客户端，UWP">UWP</a>
+</blockquote></blockquote>
 
 - [AntiZhaPian](https://github.com/taoste/AntiZhaPian):[假的国家反诈中心](https://github.com/XJP-GIT/AntiZhaPian)@[XJP-GIT](https://github.com/XJP-GIT/)
 
