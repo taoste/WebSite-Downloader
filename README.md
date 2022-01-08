@@ -57,7 +57,7 @@ url 参数是要下载的网站 URL。<br>
 	<a href="http://www.dapenti.com/blog/more.asp?name=xilei&id=162125" title="喷嚏网|铂程斋--江雪：长安十日" style="color:#808080;text-decoration:none;">默存格物|江雪：长安十日</a>
 	<a href="https://chinadigitaltimes.net/chinese/675386.html" title="默存格物|江雪：长安十日 - 中国数字时代" style="color:#808080;text-decoration:none;">@中国数字时代</a><br>
 	2022年1月4日，微信公众号“默存格物”发布了一篇文章《江雪：长安十日》，文内标题是《我的封城十日志》。被誉为“西安版方方日记”。<br>
-	</summary> 
+	</summary> <hr style="height:1px;border:none;border-top:1px dashed #0066CC;">
 	西安封城以来，中国独立记者江雪撰写的封城见闻“长安十日”迅速流传华文圈，声名大噪。<br>	
 	许多人对她学法律出身，却不想被声名狼籍的中国公检法系统污染而改当记者，感到好奇。<br>
          有关中国独立记者江雪的个人经历，据报导说，事实上，长住西安、以调查报导见长的江雪，在中国新闻界已算是知名人物，被同业归类为温和自由派。<br>
